@@ -1,0 +1,24 @@
+#red
+{
+    color: red;
+}
+
+#lefthead, #righthead
+{
+    background-color: #9b361d;
+    color: white;
+    text-align: center;
+}
+
+.jumbotron
+{
+    background-size: 50%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-image: url("https://thumbs.gfycat.com/FriendlyMellowGourami-small.gif")
+}
+
+span
+{
+    font-size: 28px;
+}
