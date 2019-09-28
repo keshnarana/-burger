@@ -1,5 +1,5 @@
-CREATE DATABASE heroku_b7067b0921c5731;
-USE heroku_b7067b0921c5731;
+CREATE DATABASE edem6aaxqnyhptqm;
+USE edem6aaxqnyhptqm;
 
 -- Create the table burgers.
 CREATE TABLE burgers
